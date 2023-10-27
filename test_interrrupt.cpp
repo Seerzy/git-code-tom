@@ -4,7 +4,7 @@ extern float delay_in_req;
 
 
 struct Animal {
-    int id=1;
+    int id=3;
     int id2=2;
 
 };
